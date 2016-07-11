@@ -68,7 +68,8 @@ require_once 'crud/class.php';
                                 <a href="modificarParque.php">Modificar</a>		
                             </li>
                             <li>
-                        		<a href="entrada.php"><i class="fa fa-fw fa-desktop"></i>Tickets</a>
+                        		<a href="#"><i class="fa fa-fw fa-desktop"></i>Tickets</a>
+                            
                     		</li>
                         </ul>
                     </li>
